@@ -2,7 +2,7 @@
 title: "Feeding, Parenting and Immunization"
 ---
 
-## QCH -- Queensway Carleton Hospital
+## Queensway Carleton Hospital
 
 ### Well baby, Jaundice and Breastfeeding Clinic
 
@@ -94,7 +94,7 @@ These are staffed by a public health nurse and lactation consultant. You can get
 |                       | Ottawa, ON                                                                            |
 +-----------------------+---------------------------------------------------------------------------------------+
 
-You can also call <abbr title="Ottawa Public Health">QCH</abbr> to speak with a Public Health nurse at **613-580-6744**
+You can also call <abbr title="Ottawa Public Health">OPH</abbr> to speak with a Public Health nurse at **613-580-6744**
 
 -   [Locations and times of drop-ins](https://calendars.ottawapublichealth.ca/PIODropIns/Week)
 
@@ -104,7 +104,7 @@ You can also call <abbr title="Ottawa Public Health">QCH</abbr> to speak with a 
 
 ## Do you need help with infant feeding?
 
-Speak directly with a Public Health Nurse by calling the <abbr title="Ottawa Public Health">QCH</abbr> Information Line
+Speak directly with a Public Health Nurse by calling the <abbr title="Ottawa Public Health">OPH</abbr> Information Line
 
 -   Monday to Friday from 9 am to 4 pm
 
