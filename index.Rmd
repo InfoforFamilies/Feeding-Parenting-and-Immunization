@@ -24,83 +24,83 @@ For continued follow up, families that may not have access to a family doctor, O
 
 These are staffed by a public health nurse and lactation consultant. You can get support with infant feeding, your baby can be weighed, learn ways for your child to be healthy and active, check in with your baby's growth and development, social and emotional development. These are for families with children 0-6 years old.
 
-+-----------------------+---------------------------------------------------------------------------------------+
-| Day and Time          | Parenting In Ottawa Drop-in Location                                                  |
-+=======================+=======================================================================================+
-| Monday                | **South/ Central**                                                                    |
-|                       |                                                                                       |
-| 1PM-3PM               | Andrew Fleck Children's Services                                                      |
-|                       |                                                                                       |
-|                       | [2330 Don Reid, Suite 101](https://goo.gl/maps/6uaF3poEiwPf85TMA?coh=178573&entry=tt) |
-|                       |                                                                                       |
-|                       | Ottawa, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Tuesdays              | **West**                                                                              |
-|                       |                                                                                       |
-| 12:30-2:30            | Beaverbrook Library                                                                   |
-|                       |                                                                                       |
-|                       | [2500 Campeau Dr](https://goo.gl/maps/ihbwo3C2TwgikT71A?coh=178573&entry=tt)          |
-|                       |                                                                                       |
-|                       | Kanata, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Tuesdays              | **East**                                                                              |
-|                       |                                                                                       |
-| 1:30-3:30             | Vanier Community Center- 2nd floor                                                    |
-|                       |                                                                                       |
-|                       | Every other week (i.e. March 14, March 26)                                            |
-|                       |                                                                                       |
-|                       | [270 Marier Ave](https://goo.gl/maps/ZQKUxUhomoKvwjnp9?coh=178573&entry=tt)           |
-|                       |                                                                                       |
-|                       | Vanier, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Wednesday             | **South/East**                                                                        |
-|                       |                                                                                       |
-| 1PM-3PM               | AMA Community Center                                                                  |
-|                       |                                                                                       |
-|                       | [1216 Huntclub Road](https://goo.gl/maps/JjR8qCSe8X2Ue3rW6?coh=178573&entry=tt)       |
-|                       |                                                                                       |
-|                       | Ottawa, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Thursday              | **East**                                                                              |
-|                       |                                                                                       |
-| 1PM-3PM               | Orleans Cumberland Community Resource Center                                          |
-|                       |                                                                                       |
-|                       | [240 Centrum Blvd](https://goo.gl/maps/AGfbCP1VY3jXDfbp6?coh=178573&entry=tt)         |
-|                       |                                                                                       |
-|                       | Orleans, ON                                                                           |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Friday                | **West**                                                                              |
-|                       |                                                                                       |
-| 10AM-12PM             | Bayshore Field House                                                                  |
-|                       |                                                                                       |
-|                       | [175 Woodridge Cres](https://goo.gl/maps/spJpYP35Y3UvGj4Z7?coh=178573&entry=tt)       |
-|                       |                                                                                       |
-|                       | Ottawa, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Saturday              | **Central/West**                                                                      |
-|                       |                                                                                       |
-| 10AM-12:30PM          | Mothercraft                                                                           |
-|                       |                                                                                       |
-|                       | [475 Evered Ave](https://goo.gl/maps/NhEoH3SLKKg5kakG6?coh=178573&entry=tt)           |
-|                       |                                                                                       |
-|                       | Ottawa, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
-| Sunday                | **Central/East**                                                                      |
-|                       |                                                                                       |
-| 10AM-12:30PM          | St Laurent Complex                                                                    |
-|                       |                                                                                       |
-|                       | [525 Coté St](https://goo.gl/maps/WuziBtC3GGCmgYPB8?coh=178573&entry=tt)              |
-|                       |                                                                                       |
-|                       | Ottawa, ON                                                                            |
-+-----------------------+---------------------------------------------------------------------------------------+
++---------------+--------------------------------------------------------------------------------------------------------+
+| Day and Time  | Parenting In Ottawa Drop-in Location                                                                   |
++===============+========================================================================================================+
+| Monday        | **South/ Central**                                                                                     |
+|               |                                                                                                        |
+| 1PM-3PM       | Andrew Fleck Children's Services                                                                       |
+|               |                                                                                                        |
+|               | [2330 Don Reid, Suite 101](https://goo.gl/maps/6uaF3poEiwPf85TMA?coh=178573&entry=tt){target="_blank"} |
+|               |                                                                                                        |
+|               | Ottawa, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Tuesdays      | **West**                                                                                               |
+|               |                                                                                                        |
+| 12:30-2:30    | Beaverbrook Library                                                                                    |
+|               |                                                                                                        |
+|               | [2500 Campeau Dr](https://goo.gl/maps/ihbwo3C2TwgikT71A?coh=178573&entry=tt){target="_blank"}          |
+|               |                                                                                                        |
+|               | Kanata, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Tuesdays      | **East**                                                                                               |
+|               |                                                                                                        |
+| 1:30-3:30     | Vanier Community Center- 2nd floor                                                                     |
+|               |                                                                                                        |
+|               | Every other week (i.e. March 14, March 26)                                                             |
+|               |                                                                                                        |
+|               | [270 Marier Ave](https://goo.gl/maps/ZQKUxUhomoKvwjnp9?coh=178573&entry=tt){target="_blank"}           |
+|               |                                                                                                        |
+|               | Vanier, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Wednesday     | **South/East**                                                                                         |
+|               |                                                                                                        |
+| 1PM-3PM       | AMA Community Center                                                                                   |
+|               |                                                                                                        |
+|               | [1216 Huntclub Road](https://goo.gl/maps/JjR8qCSe8X2Ue3rW6?coh=178573&entry=tt){target="_blank"}       |
+|               |                                                                                                        |
+|               | Ottawa, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Thursday      | **East**                                                                                               |
+|               |                                                                                                        |
+| 1PM-3PM       | Orleans Cumberland Community Resource Center                                                           |
+|               |                                                                                                        |
+|               | [240 Centrum Blvd](https://goo.gl/maps/AGfbCP1VY3jXDfbp6?coh=178573&entry=tt){target="_blank"}         |
+|               |                                                                                                        |
+|               | Orleans, ON                                                                                            |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Friday        | **West**                                                                                               |
+|               |                                                                                                        |
+| 10AM-12PM     | Bayshore Field House                                                                                   |
+|               |                                                                                                        |
+|               | [175 Woodridge Cres](https://goo.gl/maps/spJpYP35Y3UvGj4Z7?coh=178573&entry=tt){target="_blank"}       |
+|               |                                                                                                        |
+|               | Ottawa, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Saturday      | **Central/West**                                                                                       |
+|               |                                                                                                        |
+| 10AM-12:30PM  | Mothercraft                                                                                            |
+|               |                                                                                                        |
+|               | [475 Evered Ave](https://goo.gl/maps/NhEoH3SLKKg5kakG6?coh=178573&entry=tt){target="_blank"}           |
+|               |                                                                                                        |
+|               | Ottawa, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
+| Sunday        | **Central/East**                                                                                       |
+|               |                                                                                                        |
+| 10AM-12:30PM  | St Laurent Complex                                                                                     |
+|               |                                                                                                        |
+|               | [525 Coté St](https://goo.gl/maps/WuziBtC3GGCmgYPB8?coh=178573&entry=tt){target="_blank"}              |
+|               |                                                                                                        |
+|               | Ottawa, ON                                                                                             |
++---------------+--------------------------------------------------------------------------------------------------------+
 
 You can also call <abbr title="Ottawa Public Health">OPH</abbr> to speak with a Public Health nurse at **613-580-6744**
 
--   [Locations and times of drop-ins](https://calendars.ottawapublichealth.ca/PIODropIns/Week)
+-   [Locations and times of drop-ins](https://calendars.ottawapublichealth.ca/PIODropIns/Week){target="_blank"}
 
--   [Breastfeeding support options](https://www.parentinginottawa.ca/en/breastfeeding/breastfeeding-resources-in-ottawa.aspx)
+-   [Breastfeeding support options](https://www.parentinginottawa.ca/en/breastfeeding/breastfeeding-resources-in-ottawa.aspx){target="_blank"}
 
--   [Caring for your new baby](https://www.parentinginottawa.ca/en/babies-and-toddlers/Life-with-a-new-baby.aspx)
+-   [Caring for your new baby](https://www.parentinginottawa.ca/en/babies-and-toddlers/Life-with-a-new-baby.aspx){target="_blank"}
 
 ## Do you need help with infant feeding?
 
@@ -130,7 +130,7 @@ The program is Free and available to:
 
 -   Parents and guardians of children aged birth to 6 years of age
 
-Visit [www.parentinginottawa.ca](https://calendars.ottawapublichealth.ca/PIODropIns/Week?Breastfeeding%20and%20Parenting%20Support%20Drop-Ins=Parenting%20in%20Ottawa%20Drop-Ins%20(Breastfeeding%20and%20parenting%20support%20for%20parents%20of%20children%20from%20birth%20to%206%20years)&) to view resources
+Visit [www.parentinginottawa.ca](https://calendars.ottawapublichealth.ca/PIODropIns/Week?Breastfeeding%20and%20Parenting%20Support%20Drop-Ins=Parenting%20in%20Ottawa%20Drop-Ins%20(Breastfeeding%20and%20parenting%20support%20for%20parents%20of%20children%20from%20birth%20to%206%20years)&){target="_blank"} to view resources
 
 ## Routine Immunizations for Babies and Children
 
@@ -144,15 +144,15 @@ Visit [www.parentinginottawa.ca](https://calendars.ottawapublichealth.ca/PIODrop
 
 -   Please bring any immunization records you already have and some kind of identification for you and your children (if available)
 
-> For more information on publicly funded immunizations (free) see [Vaccines through the lifespan](https://www.health.gov.on.ca/en/pro/programs/immunization/docs/immunization_poster_lifespan.pdf)
+> For more information on publicly funded immunizations (free) see [Vaccines through the lifespan](https://www.health.gov.on.ca/en/pro/programs/immunization/docs/immunization_poster_lifespan.pdf){target="_blank"}
 
 ### Ottawa Public Health -- No <abbr title="Ontario Health Insurance Plan">OHIP</abbr> required
 
 Location and hours:
 
--   [By appointment- family vaccine clinic](https://reservation.frontdesksuite.ca/oph/routinecommunity/Home/Index?Culture=en&PageId=a5d911ef-1a96-474d-96cf-239ec39c0da6&ShouldStartReserveTimeFlow=False&ButtonId=00000000-0000-0000-0000-000000000000)
+-   [By appointment- family vaccine clinic](https://reservation.frontdesksuite.ca/oph/routinecommunity/Home/Index?Culture=en&PageId=a5d911ef-1a96-474d-96cf-239ec39c0da6&ShouldStartReserveTimeFlow=False&ButtonId=00000000-0000-0000-0000-000000000000){target="_blank"}
 
-For babies, young children or if you are pregnant and need the <abbr title="Tetanus, Diptheria and Pertussis">Tdap</abbr> vaccine (given between 28-32 weeks) please look to the [NEIGHBOURHOOD HEALTH AND WELLNESS LOCATIONS that offer Routine Vaccines.](#0){style="font-size: 11pt;"}
+For babies, young children or if you are pregnant and need the <abbr title="Tetanus, Diptheria and Pertussis">Tdap</abbr> vaccine (given between 28-32 weeks) please look to the [NEIGHBOURHOOD HEALTH AND WELLNESS LOCATIONS that offer Routine Vaccines.](#0){target="_blank" style="font-size: 11pt;"}
 
 > For questions or to make appointment, call **613-580-6744**
 
