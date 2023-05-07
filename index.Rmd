@@ -2,9 +2,9 @@
 title: "Feeding, Parenting and Immunization"
 ---
 
-### QCH -- Queensway Carleton Hospital
+## QCH -- Queensway Carleton Hospital
 
-#### Well baby, Jaundice and Breastfeeding Clinic
+### Well baby, Jaundice and Breastfeeding Clinic
 
 <abbr title="Queensway Carleton Hospital">QCH</abbr> sees babies in their clinic after your baby goes home. For the first follow up visit, if you do not have a family doctor a you may get booked into their well baby clinic where your baby can be assessed for weight, infant feeding and checked by a doctor. If there is a concern about jaundice, the doctor can book a follow up visit.
 
@@ -12,7 +12,7 @@ title: "Feeding, Parenting and Immunization"
 
 > Book an appointment before you go home call to book at **613-721-2000 x4816**
 
-### Ottawa Public Health
+## Ottawa Public Health
 
 For continued follow up, families that may not have access to a family doctor, Ottawa Public Health (OPH) is helping to provide free support.
 

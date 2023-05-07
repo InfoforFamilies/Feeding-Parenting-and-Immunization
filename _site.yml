@@ -5,3 +5,9 @@ navbar:
   left:
     - text: "Feeding, Parenting and Immunization"
       href: index.html
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    css: custom.css
+    
