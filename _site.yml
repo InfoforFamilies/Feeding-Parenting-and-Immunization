@@ -4,7 +4,7 @@ navbar:
   title: "Follow up and Support for Parents"
   left:
     - text: "Childbirth Program"
-      href: Childbirth-Program.html
+      href: index.html
     - text: "Feeding, Parenting and Immunization"
       href: Feeding,-Parenting-and-Immunization.html
     - text: "Breastfeeding videos"
