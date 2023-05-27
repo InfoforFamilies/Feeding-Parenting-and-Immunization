@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Feeding, Parenting and Immunization</title>
+
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="custom.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Follow up and Support for Parents</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="Childbirth-Program.html">Childbirth Program</a>
+</li>
+<li>
+  <a href="Feeding,-Parenting-and-Immunization.html">Feeding, Parenting and Immunization</a>
+</li>
+<li>
+  <a href="Breastfeeding-videos.html">Breastfeeding videos</a>
+</li>
+<li>
+  <a href="Lactation-Consultants.html">Lactation Consultants</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Feeding, Parenting and Immunization</h1>
+
+</div>
+
+
+<div id="queensway-carleton-hospital" class="section level2">
+<h2>Queensway Carleton Hospital</h2>
+<div id="well-baby-jaundice-and-breastfeeding-clinic"
+class="section level3">
+<h3>Well baby, Jaundice and Breastfeeding Clinic</h3>
+<p><abbr title="Queensway Carleton Hospital">QCH</abbr> sees babies in
+their clinic after your baby goes home. For the first follow up visit,
+if you do not have a family doctor a you may get booked into their well
+baby clinic where your baby can be assessed for weight, infant feeding
+and checked by a doctor. If there is a concern about jaundice, the
+doctor can book a follow up visit.</p>
+<p><abbr title="Queensway Carleton Hospital">QCH</abbr> offers feeding
+support for families as well for babies up to 3 weeks after the baby is
+discharged.</p>
+<blockquote>
+<p>Call to book an appointment at <strong>613-721-2000
+x4816</strong></p>
+</blockquote>
+</div>
+</div>
+<div id="ottawa-public-health" class="section level2">
+<h2>Ottawa Public Health</h2>
+<p>For continued follow up, families that may not have access to a
+family doctor, Ottawa Public Health (OPH) is helping to provide free
+support.</p>
+<p><abbr title="Ottawa Public Health">OPH</abbr> offers a variety of
+services from Covid-19 and flu vaccines, to dental screening, parenting
+and lactation support and immunizations for school age children and now
+there are some hubs offering routine vaccinations for children.</p>
+<blockquote>
+<p><a
+href="https://www.ottawapublichealth.ca/en/public-health-topics/neighbourhood-health-and-wellness-hubs.aspx">These
+hubs are drop-in and therefore no appointment is needed.</a></p>
+</blockquote>
+</div>
+<div id="feeding-and-parenting-support" class="section level2">
+<h2>Feeding and Parenting Support</h2>
+<p>These are staffed by a public health nurse and lactation consultant.
+You can get support with infant feeding, your baby can be weighed, learn
+ways for your child to be healthy and active, check in with your baby’s
+growth and development, social and emotional development. These are for
+families with children 0-6 years old.</p>
+<table>
+<colgroup>
+<col width="13%" />
+<col width="86%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Day and Time</th>
+<th>Parenting In Ottawa Drop-in Location</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Monday</p>
+<p>1PM-3PM</p></td>
+<td><p><strong>South/ Central</strong></p>
+<p>Andrew Fleck Children’s Services</p>
+<p><a
+href="https://goo.gl/maps/6uaF3poEiwPf85TMA?coh=178573&amp;entry=tt"
+target="_blank">2330 Don Reid, Suite 101</a></p>
+<p>Ottawa, ON</p></td>
+</tr>
+<tr class="even">
+<td><p>Tuesdays</p>
+<p>12:30-2:30</p></td>
+<td><p><strong>West</strong></p>
+<p>Beaverbrook Library</p>
+<p><a
+href="https://goo.gl/maps/ihbwo3C2TwgikT71A?coh=178573&amp;entry=tt"
+target="_blank">2500 Campeau Dr</a></p>
+<p>Kanata, ON</p></td>
+</tr>
+<tr class="odd">
+<td><p>Tuesdays</p>
+<p>1:30-3:30</p></td>
+<td><p><strong>East</strong></p>
+<p>Vanier Community Center- 2nd floor</p>
+<p>Every other week (i.e. March 14, March 26)</p>
+<p><a
+href="https://goo.gl/maps/ZQKUxUhomoKvwjnp9?coh=178573&amp;entry=tt"
+target="_blank">270 Marier Ave</a></p>
+<p>Vanier, ON</p></td>
+</tr>
+<tr class="even">
+<td><p>Wednesday</p>
+<p>1PM-3PM</p></td>
+<td><p><strong>South/East</strong></p>
+<p>AMA Community Center</p>
+<p><a
+href="https://goo.gl/maps/JjR8qCSe8X2Ue3rW6?coh=178573&amp;entry=tt"
+target="_blank">1216 Huntclub Road</a></p>
+<p>Ottawa, ON</p></td>
+</tr>
+<tr class="odd">
+<td><p>Thursday</p>
+<p>1PM-3PM</p></td>
+<td><p><strong>East</strong></p>
+<p>Orleans Cumberland Community Resource Center</p>
+<p><a
+href="https://goo.gl/maps/AGfbCP1VY3jXDfbp6?coh=178573&amp;entry=tt"
+target="_blank">240 Centrum Blvd</a></p>
+<p>Orleans, ON</p></td>
+</tr>
+<tr class="even">
+<td><p>Friday</p>
+<p>10AM-12PM</p></td>
+<td><p><strong>West</strong></p>
+<p>Bayshore Field House</p>
+<p><a
+href="https://goo.gl/maps/spJpYP35Y3UvGj4Z7?coh=178573&amp;entry=tt"
+target="_blank">175 Woodridge Cres</a></p>
+<p>Ottawa, ON</p></td>
+</tr>
+<tr class="odd">
+<td><p>Saturday</p>
+<p>10AM-12:30PM</p></td>
+<td><p><strong>Central/West</strong></p>
+<p>Mothercraft</p>
+<p><a
+href="https://goo.gl/maps/NhEoH3SLKKg5kakG6?coh=178573&amp;entry=tt"
+target="_blank">475 Evered Ave</a></p>
+<p>Ottawa, ON</p></td>
+</tr>
+<tr class="even">
+<td><p>Sunday</p>
+<p>10AM-12:30PM</p></td>
+<td><p><strong>Central/East</strong></p>
+<p>St Laurent Complex</p>
+<p><a
+href="https://goo.gl/maps/WuziBtC3GGCmgYPB8?coh=178573&amp;entry=tt"
+target="_blank">525 Coté St</a></p>
+<p>Ottawa, ON</p></td>
+</tr>
+</tbody>
+</table>
+<p>You can also call <abbr title="Ottawa Public Health">OPH</abbr> to
+speak with a Public Health nurse at <strong>613-580-6744</strong></p>
+<ul>
+<li><p><a href="https://calendars.ottawapublichealth.ca/PIODropIns/Week"
+target="_blank">Locations and times of drop-ins</a></p></li>
+<li><p><a
+href="https://www.parentinginottawa.ca/en/breastfeeding/breastfeeding-resources-in-ottawa.aspx"
+target="_blank">Breastfeeding support options</a></p></li>
+<li><p><a
+href="https://www.parentinginottawa.ca/en/babies-and-toddlers/Life-with-a-new-baby.aspx"
+target="_blank">Caring for your new baby</a></p></li>
+</ul>
+</div>
+<div id="do-you-need-help-with-infant-feeding" class="section level2">
+<h2>Do you need help with infant feeding?</h2>
+<p>Speak directly with a Public Health Nurse by calling the
+<abbr title="Ottawa Public Health">OPH</abbr> Information Line</p>
+<ul>
+<li><p>Monday to Friday from 9 am to 4 pm</p></li>
+<li><p>613-PARENTS (<strong>613-727-3687</strong>) (ATS :
+<strong>613-580-9656</strong>) and choose option 4.</p></li>
+</ul>
+</div>
+<div id="parenting-in-ottawa-drop-in-clinics" class="section level2">
+<h2>Parenting in Ottawa Drop-in Clinics</h2>
+<p>The Parenting In Ottawa drop-ins are located across the City of
+Ottawa.</p>
+<p>Speak, in person, with a Public Health Nurse or lactation consultant
+about questions that you might have.</p>
+<ul>
+<li><p>Get support for infant feeding</p></li>
+<li><p><span style="color: blue;">Breast pumps are available to borrow
+for 1-2 weeks</span></p></li>
+<li><p>Make sure your child is on track with their growth and
+development</p></li>
+<li><p>Provides support and information about how to take care of your
+baby</p></li>
+</ul>
+<p>The program is Free and available to:</p>
+<ul>
+<li><p>Expectant parents,</p></li>
+<li><p>Parents and guardians of children aged birth to 6 years of
+age</p></li>
+</ul>
+<p>Visit <a
+href="https://calendars.ottawapublichealth.ca/PIODropIns/Week?Breastfeeding%20and%20Parenting%20Support%20Drop-Ins=Parenting%20in%20Ottawa%20Drop-Ins%20(Breastfeeding%20and%20parenting%20support%20for%20parents%20of%20children%20from%20birth%20to%206%20years)&amp;"
+target="_blank">www.parentinginottawa.ca</a> to view resources</p>
+</div>
+<div id="routine-immunizations-for-babies-and-children"
+class="section level2">
+<h2>Routine Immunizations for Babies and Children</h2>
+<ul>
+<li><p>Children require immunizations at 2, 4, 6, 12, 15 and 18
+months</p></li>
+<li><p>Children then require immunizations between 4 years and 6 years
+of age</p></li>
+<li><p>These immunization clinics are for families who <strong>do
+not</strong> have
+<abbr title="Ontario Health Insurance Plan">OHIP</abbr> or a family
+doctor.</p></li>
+<li><p>If pregnant can get Tdap (Tetanus, Diptheria and Pertussis)
+between 28-32 weeks</p></li>
+<li><p>Please bring any immunization records you already have and some
+kind of identification for you and your children (if available)</p></li>
+</ul>
+<blockquote>
+<p>For more information on publicly funded immunizations (free) see <a
+href="https://www.health.gov.on.ca/en/pro/programs/immunization/docs/immunization_poster_lifespan.pdf"
+target="_blank">Vaccines through the lifespan</a></p>
+</blockquote>
+<div id="ottawa-public-health-no-ohip-required" class="section level3">
+<h3>Ottawa Public Health – No
+<abbr title="Ontario Health Insurance Plan">OHIP</abbr> required</h3>
+<p>Location and hours:</p>
+<ul>
+<li><a
+href="https://reservation.frontdesksuite.ca/oph/routinecommunity/Home/Index?Culture=en&amp;PageId=a5d911ef-1a96-474d-96cf-239ec39c0da6&amp;ShouldStartReserveTimeFlow=False&amp;ButtonId=00000000-0000-0000-0000-000000000000"
+target="_blank">By appointment- family vaccine clinic</a></li>
+</ul>
+<p>For babies, young children or if you are pregnant and need the
+<abbr title="Tetanus, Diptheria and Pertussis">Tdap</abbr> vaccine
+(given between 28-32 weeks) please look to the <a href="#id_0"
+target="_blank" style="font-size: 11pt;">NEIGHBOURHOOD HEALTH AND
+WELLNESS LOCATIONS that offer Routine Vaccines.</a></p>
+<blockquote>
+<p>For questions or to make appointment, call
+<strong>613-580-6744</strong></p>
+</blockquote>
+</div>
+<div
+id="east-ottawa-kids-clinic-4289-innes-road-2nd-floor-no-ohip-required"
+class="section level3">
+<h3>East Ottawa Kids Clinic – 4289 Innes Road – 2nd floor –
+<strong>NO</strong>
+<abbr title="Ontario Health Insurance Plan">OHIP</abbr> REQUIRED</h3>
+<ul>
+<li>Runs immunization clinic <strong>every other Saturday</strong> for
+children under 18 months</li>
+</ul>
+<blockquote>
+<p>No Well-Baby visits. Ony immunizations.</p>
+</blockquote>
+<ul>
+<li>Request an appointment by emailing <a
+href="mailto:eastottawakidscovidcareclinic@gmail.com"
+class="email">eastottawakidscovidcareclinic@gmail.com</a></li>
+</ul>
+</div>
+<div id="college-square-medical-care-ohip-required"
+class="section level3">
+<h3>College Square Medical Care –
+<abbr title="Ontario Health Insurance Plan">OHIP</abbr> REQUIRED</h3>
+<ul>
+<li><p>CALL <strong>613-224-6606</strong> - Appointments offered on
+Thursday mornings only</p></li>
+<li><p>1980 Baseline Road (Near Algonquin College)</p></li>
+<li><p>For children 9 months or older</p></li>
+<li><p>Immunization assessments and Publicly funded required
+immunizations</p></li>
+</ul>
+<blockquote>
+<p><strong>There is a $50 charge for missed appointments</strong></p>
+</blockquote>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

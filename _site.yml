@@ -3,8 +3,14 @@ output_dir: "."
 navbar:
   title: "Follow up and Support for Parents"
   left:
+    - text: "Childbirth Program"
+      href: Childbirth-Program.html
     - text: "Feeding, Parenting and Immunization"
-      href: index.html
+      href: Feeding,-Parenting-and-Immunization.html
+    - text: "Breastfeeding videos"
+      href: Breastfeeding-videos.html
+    - text: "Lactation Consultants"
+      href: Lactation-Consultants.html
 output:
   html_document:
     toc: true
